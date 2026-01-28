@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sudha Sharma
+# Hi 👋, I'm Sudha
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;Data+Engineer;Python+Developer;Machine+Learning+Enthusiast)
 
